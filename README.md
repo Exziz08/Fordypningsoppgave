@@ -1,7 +1,5 @@
 # Eksamensoppgave
 
-# Tverrfaglig IT-prosjekt
-
 ## Om prosjektet
 Dette prosjektet er laget i forbindelse med den tverrfaglige IT-eksamenen. Målet er å lage et lite system som viser flere ferdigheter innen IT, blant annet programmering, databaser, serveroppsett og versjonskontroll.
 
