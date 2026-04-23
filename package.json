@@ -1,0 +1,20 @@
+{
+  "name": "eksamensprosjekt",
+  "version": "1.0.0",
+  "description": "Dette prosjektet er laget i forbindelse med den tverrfaglige IT-eksamenen. Målet er å lage et lite system som viser flere ferdigheter innen IT, blant annet programmering, databaser, serveroppsett og versjonskontroll.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Exziz08/Eksamensoppgave.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Exziz08/Eksamensoppgave/issues"
+  },
+  "homepage": "https://github.com/Exziz08/Eksamensoppgave#readme"
+}
